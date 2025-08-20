@@ -29,7 +29,7 @@ This repository is organized into the following main directories:
 ## Technology Stack
 
 ### Frontend 
-- Next.js for the user interface
+- React.js for the user interface
 - Modern JavaScript frameworks for interactive visualizations
 - Responsive design for cross-device compatibility
 
@@ -123,10 +123,6 @@ This project is licensed under the Apache 2.0 License - see the LICENSE file for
 - Open-source NLP libraries
 - AI research community
 - Contributors and testers
-
-## Contact
-
-Repository Owner: [sa778888](https://github.com/sa778888)
 
 DEMO LINK : https://drive.google.com/file/d/1WyaDriv50GVmkHDSJcCeOXxwOrhUOfY1/view?usp=sharing
 
